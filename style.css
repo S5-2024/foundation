@@ -137,9 +137,11 @@ body {
 }
 .product p {
   text-align: center;
+  font-size: 100%;
 }
 .product button {
   width: 30%;
+  font-size: 90%;
 }
 
 .section-divider {
